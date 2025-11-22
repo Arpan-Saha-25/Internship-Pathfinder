@@ -1,0 +1,6 @@
+google-adk
+requests
+beautifulsoup4
+tqdm
+python-dotenv
+vertexai
